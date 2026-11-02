@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_horizontal_padding">16dp</dimen>
+    <dimen name="screen_vertical_padding">12dp</dimen>
+    <dimen name="header_spacing">8dp</dimen>
+    <dimen name="list_top_spacing">12dp</dimen>
+    <dimen name="grid_spacing">10dp</dimen>
+    <dimen name="grid_bottom_padding">16dp</dimen>
+    <dimen name="button_top_spacing">8dp</dimen>
+    <dimen name="button_vertical_padding">12dp</dimen>
+    <dimen name="square_corner_radius">8dp</dimen>
+    <dimen name="square_elevation">2dp</dimen>
+</resources>

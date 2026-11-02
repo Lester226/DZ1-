@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Числовые карточки</string>
+    <string name="screen_title">Числовые карточки</string>
+    <string name="items_count">Элементов: %1$d</string>
+    <string name="empty_list_message">Нажмите кнопку, чтобы добавить первый квадрат</string>
+    <string name="add_rectangle_button">Добавить квадрат</string>
+</resources>

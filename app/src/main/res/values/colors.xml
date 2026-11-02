@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#F5F6FA</color>
+    <color name="screen_title">#182230</color>
+    <color name="secondary_text">#687386</color>
+    <color name="even_item_background">#D32F2F</color>
+    <color name="odd_item_background">#1976D2</color>
+    <color name="item_number_text">#FFFFFF</color>
+</resources>
